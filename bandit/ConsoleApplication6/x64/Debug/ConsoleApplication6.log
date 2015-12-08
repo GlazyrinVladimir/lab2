@@ -1,0 +1,10 @@
+﻿Сборка начата 10.11.2015 23:31:55.
+     1>Проект "C:\Users\Володя\Desktop\Однорукий бандит\ConsoleApplication6\ConsoleApplication6.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\VS\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Володя\Desktop\Однорукий бандит\x64\Debug\ConsoleApplication6.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-Visual_Studio2015RCx32\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Володя\Desktop\Однорукий бандит\x64\Debug\ConsoleApplication6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Володя\Desktop\Однорукий бандит\x64\Debug\ConsoleApplication6.lib" /MACHINE:X64 x64\Debug\Source.obj
+     1>sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: тип компьютера модуля "X86" противоречит типу целевого компьютера "x64"
+     1>Сборка проекта "C:\Users\Володя\Desktop\Однорукий бандит\ConsoleApplication6\ConsoleApplication6.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.06
